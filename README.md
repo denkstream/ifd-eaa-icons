@@ -8,7 +8,7 @@ All icons shown here are in .svg format and can be downloaded directly from here
 **This file will be continuously updated!**
 
 ## Interface icons
-- <img src="https://fonts.gstatic.com/s/i/materialiconsround/add_circle/v13/24px.svg"> Indicator for expanding section
+- <img src="https://fonts.gstatic.com/s/i/materialiconsround/add_circle/v13/24px.svg"> [Indicator for expanding section](https://fonts.gstatic.com/s/i/materialiconsround/add_circle/v13/24px.svg)
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/remove_circle/v19/24px.svg"> Indicator for reducing section
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/arrow_circle_right/v2/24px.svg"> Go to subject page
 
