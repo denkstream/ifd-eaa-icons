@@ -8,14 +8,7 @@ All icons shown here are in .svg format and can be downloaded directly from here
 ## Icons for section "Navigation"
 Navigation section is vertical bar on left side with access to different views and workspaces alocated right.
 
-  
-<img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/business/v12/24px.svg"> Betriebe und Einrichtungen
-
-#### Öffentlichkeitsarbeit
-<img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/business/v12/24px.svg">
-
-#### Auswertung
-<img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/business/v12/24px.svg">
-
-#### Benutzerverwaltung
-<img src="https://fonts.gstatic.com/s/i/materialiconsoutlined/business/v12/24px.svg">
+- Betriebe und Einrichtungen
+- Öffentlichkeitsarbeit
+- Auswertung <img src="https://fonts.gstatic.com/s/i/materialiconsround/bar_chart/v12/24px.svg">
+- Benutzerverwaltung
