@@ -5,6 +5,8 @@ Due of EU GDRP compliance it's important not to link directly to google, but to 
 
 All icons shown here are in .svg format and can be downloaded directly from here 🙂 Sorry for sloppy aligning, just wanted to do it quick so you can work on it! Just click on icon to load .svg file.
 
+**This file will be continuously updated!**
+
 ## Universal icons
 Universal icons can be used everywhere based on context
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/watch_later/v17/24px.svg"> Clock
