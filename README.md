@@ -1,4 +1,4 @@
-# ifd-eaa-icons
+# IFD EAA Icon set
 
 The icons used here are pulled from [Google Fonts - Material icons](https://fonts.google.com/icons).
 Due of EU GDRP compliance it's important not to link directly to google, but to store icons on server where database is hosted.
