@@ -9,7 +9,7 @@ All icons shown here are in .svg format and can be downloaded directly from here
 
 ## Universal icons
 Universal icons can be used everywhere based on context
-- <img src="https://fonts.gstatic.com/s/i/materialiconsround/watch_later/v17/24px.svg"> Clock
+- <img src="https://fonts.gstatic.com/s/i/materialiconsround/watch_later/v17/24px.svg"> Uhr (Clock)
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/search/v17/24px.svg"> Betrieb oder Einrichtung suchen (Search)
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/find_replace/v12/24px.svg"> Suchergebnisse (Live Search results)
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/search_off/v12/24px.svg"> Der Betrieb oder die Einrichtung wurde nicht gefunden? (Search object not found? Add a new object)
