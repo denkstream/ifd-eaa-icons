@@ -35,11 +35,12 @@ Navigation section is vertical bar on left side with access to different views a
 Indicators are used to show whether a company has experience with disabilities. In early phase there are four indicators planned, but the decisions need to be made if more indicators are needed.
 
 All indicators have three states:
-- State grey: it is not known if a company has experience with particular disability
-- State red: it shows, that company doesn't have the experience with disability
-- State blue: it's confirmed that a company have been in touch with corresponding disability
+- State grey (neutral): it is not known if a company has experience with particular disability
+- State red (unavailable): it shows, that company doesn't have the experience with disability
+- State blue (available): it's confirmed that a company have been in touch with corresponding disability
 
-### Icon and states for disabilities
-- <img src="">
-- <img src="">
-- <img src="">
+The icons with corresponding coloring are [stored here](/icon-disability-indicators/). The current disabilities that need to be indicated are:
+- Vision disability, file: disability-eyes
+- Hearing disability, file: disability-hearing
+- Sing language indicator, file: disability-sl
+- Wheel chair accesibility, file: disability-wheelchair
