@@ -31,7 +31,7 @@ Navigation section is vertical bar on left side with access to different views a
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/contrast/v1/24px.svg"> Hoher Kontrast (High contrast)
 - <img src="https://fonts.gstatic.com/s/i/materialiconsround/invert_colors/v13/24px.svg"> Farben invertieren (Invert colors)
 
-## Indicators for handling with particular disabilities
+## Indicators for handling particular disabilities
 Indicators are used to show whether a company has experience with disabilities. In early phase there are four indicators planned, but the decisions need to be made if more indicators are needed.
 
 All indicators have three states:
