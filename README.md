@@ -10,5 +10,5 @@ Navigation section is vertical bar on left side with access to different views a
 
 - Betriebe und Einrichtungen
 - Öffentlichkeitsarbeit
-- Auswertung <img src="https://fonts.gstatic.com/s/i/materialiconsround/bar_chart/v12/24px.svg">
+- <img src="https://fonts.gstatic.com/s/i/materialiconsround/bar_chart/v12/24px.svg"> Auswertung 
 - Benutzerverwaltung
